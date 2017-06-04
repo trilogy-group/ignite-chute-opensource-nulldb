@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "nulldb"
-  s.version = "0.3.7"
+  s.version = "0.3.7-alpha.1"
 
   s.require_paths = ["lib"]
   s.authors = ["Avdi Grimm", "Myron Marston"]
