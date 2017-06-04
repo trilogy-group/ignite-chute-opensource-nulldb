@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |s|
-  s.name = "activerecord-nulldb-adapter"
+  s.name = "nulldb"
   s.version = "0.3.7"
 
   s.require_paths = ["lib"]
