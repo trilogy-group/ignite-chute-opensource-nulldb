@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem 'activerecord', '>= 2.0.0'
+gem 'rack'
 
 group :development, :test do
   gem 'spec'
